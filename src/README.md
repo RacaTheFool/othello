@@ -16,7 +16,6 @@ I did this project to familiarize myself with the Rust language. Rust was much m
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Tutorials Point - Rust](https://www.tutorialspoint.com/rust/index.htm)
 * [Install Rust](https://www.rust-lang.org/tools/install)
 * [Visual Studio Code - Rust Extension](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
